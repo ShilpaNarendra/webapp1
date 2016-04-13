@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
     public class HomeController : Controller
     {
         //learning GIT
-        // this is a master branch
+        // april changes
         public ActionResult Index()
         {
             return View();
